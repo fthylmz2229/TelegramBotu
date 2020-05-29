@@ -1,10 +1,12 @@
 #kullanılan kütüphaneler
 import requests
+
 import DovizKurlari
 import corona
 import meyvesebze
+
 #API bağlantısı için gerekli olan parametreler
-token = "TELEGRAM API TOKEN IS HERE"
+token = "TELEGRAM API TOKEN IS HERE."
 chat_id = "1051278240"
 #mesajlaşma esnasında verilecek cevapları belirlemek için gelen mesajı tespit etmek için kullanılan değişkenler
 gelenYazi = ""
